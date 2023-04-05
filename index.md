@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This privacy policy governs your use of the Percent Trading app for Apple devices (Mac, iPhone and iPad) that was created by Mehmet Bayram. The Application lets you calculate percent values with an in-app calculator.
+This privacy policy governs your use of the Percent Trading app that was created by Mehmet Bayram. The Application lets you calculate percent values with an in-app calculator.
 
 ### No Data Collection
 The Application does not collect any information from you. Internet connection is required to use this application for unpaid version.
